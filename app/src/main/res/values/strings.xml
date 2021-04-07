@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Practica1</string>
+    <string name="form">Formulario</string>
+    <string name="requiered_field">*Campo requerido</string>
+    <string name="email">Correo electronico</string>
+    <string name="password">Contraseña</string>
+    <string name="rep_password">Repetir Contraseña</string>
+    <string name="save">Guardar</string>
+    <string name="info">Informacion del Usuario</string>
+    <string name="pasword_error">Las contraseñas no son iguales</string>
+    <string name="email_error">debe digitar nombre y correo electronico</string>
+    <string name="genre">Género</string>
+    <string name="female">Femenino</string>
+    <string name="male">Masculino</string>
+    <string name="hobbies">Pasatiempos</string>
+    <string name="sport">Deporte</string>
+    <string name="read">Leer</string>
+    <string name="eat">Comer</string>
+    <string name="dance">Bailar</string>
+    <string name="date">fecha de nacimiento</string>
+    <string name="input_date">ingresar fecha de nacimiento</string>
+    <string name="please_input_date">Ingresar fecha de nacimiento</string>
+    <string name="name">Nombre</string>
+    <string name="input_city">Seleccione Ciudad</string>
+
+    <string-array name="city_list">
+        <item>Bogota</item>
+        <item>Medellin</item>
+        <item>Cali</item>
+        <item>Cartagena</item>
+        <item>Barranquilla</item>
+    </string-array>
+
+</resources>
